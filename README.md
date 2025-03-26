@@ -10,7 +10,7 @@ In Kill the Guard, your goal is to eliminate all the guards by clicking on the P
 
 Are you ready to take them all down? Play and dominate the game!
 
-![Kill The Guard]((https://github.com/Isha003-hub/KillTheGuard/blob/main/Screenshot%202025-03-25%20231713.png)
+![Kill The Guard](https://github.com/Isha003-hub/KillTheGuard/blob/main/Screenshot%202025-03-25%20231713.png)
 
 
 
