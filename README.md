@@ -4,7 +4,7 @@
 
 In Kill the Guard, your goal is to eliminate all the guards by clicking on the Play Button one by one. Each click triggers an explosive chain reaction, wiping out the guards in a dramatic blast. Be precise and strategic—timing is everything!
 
-🔹 Click on the play button to initiate the sequence. 
+🔹 Click on the play button to initiate the sequence.  
 🔹 Watch as the guards get eliminated one by one.  
 🔹 Enjoy the thrilling chain reaction! 
 
