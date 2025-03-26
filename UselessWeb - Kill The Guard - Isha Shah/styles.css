@@ -1,0 +1,95 @@
+body { 
+    text-align: center; 
+    background-color: white;
+    /*background-image: url(img/background.jpg); */
+    margin: 0;
+    padding: 0;
+}
+
+#game-container {
+    position: relative;
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    background: url('./img/squid3.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+#doll {
+    width: 135px;
+    position: absolute;
+    left: 50px;
+    bottom: 86px;
+    transition: transform 0.5s;
+}
+
+#guard1{
+    width: 80px;
+    position: absolute;
+    right: 156px;
+    bottom: 70px;
+    transition: opacity 0.5s;
+}
+
+#guard2{
+    width: 120px;
+    position: absolute;
+    right: 200px;
+    bottom: 90px;
+    transition: opacity 0.5s;
+}
+
+#guard3{
+    width: 80px;
+    position: absolute;
+    right: 280px;
+    bottom: 109px;
+    transition: opacity 0.5s;
+}
+
+#guard4{
+    width: 123px;
+    position: absolute;
+    right: 310px;
+    bottom: 127px;
+    transition: opacity 0.5s;
+}
+
+#playBtn img {
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 22px 20px;
+    cursor: pointer;
+	position:absolute;
+	bottom:0px;
+	width:50px;
+}
+
+#game-over {
+    display: none;
+    font-size: 24px;
+    color: red;
+    margin-top: 20px;
+}
+
+@keyframes boom-animation {
+    0% {
+        transform: scale(0);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(1.5);
+        opacity: 0;
+    }
+}
+
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+}
+
+
+body{
+    background-color: rgb(39, 38, 38);
+}
