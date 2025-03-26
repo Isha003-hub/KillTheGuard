@@ -1,6 +1,6 @@
 
 # KillTheGuard - A game for useless website
-🎮 How to Play Kill the Squid
+🎮 How to Play Kill the Guard
 
 In Kill the Guard, your goal is to eliminate all the guards by clicking on the Play Button one by one. Each click triggers an explosive chain reaction, wiping out the guards in a dramatic blast. Be precise and strategic—timing is everything!
 
